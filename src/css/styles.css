@@ -27,7 +27,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+  background: linear-gradient(to right, #4024e2, #24e2b3, rgb(113, 209, 57));
 }
 
 input {
